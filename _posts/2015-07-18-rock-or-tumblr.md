@@ -13,7 +13,7 @@ app_links: []
 isBasedOnUrl: 'https://www.tumblr.com/search/rock'
 title: 'rock | Tumblr'
 datePublished: '2015-07-18T15:36:28.874Z'
-dateModified: '2015-07-18T15:36:28.874Z'
+dateModified: '2015-07-18T17:25:13.039Z'
 sourcePath: _posts/2015-07-18-rock-or-tumblr.md
 published: true
 _context: 'http://schema.org'
