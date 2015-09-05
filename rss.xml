@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[toys]]></title>
         <description><![CDATA[toys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/toys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Sep 2015 15:48:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Sep 2015 15:48:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/toys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://38.media.tumblr.com/6e1f9f63769c51ad122132493c925513/tumblr_ne6gxmSftK1qg2p2fo1_400.gif">]]></description>
+            <link>https://thegrid.ai/toys/7709654f-6a7d-4d58-a57a-7c5bc413549f/index.html</link>
+            <guid isPermaLink="false">7709654f-6a7d-4d58-a57a-7c5bc413549f</guid>
+            <pubDate>Sat, 05 Sep 2015 15:47:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://33.media.tumblr.com/364d9215ff95fcfaabf0bdfcb49aac66/tumblr_nbd84d7cb21soe0k5o8_r1_250.gif">]]></description>
-            <link>undefinedda7f7f81-bfc9-43c7-a417-25eb9419a7ad/index.html</link>
+            <link>https://thegrid.ai/toys/da7f7f81-bfc9-43c7-a417-25eb9419a7ad/index.html</link>
             <guid isPermaLink="false">da7f7f81-bfc9-43c7-a417-25eb9419a7ad</guid>
             <pubDate>Sat, 05 Sep 2015 15:47:51 GMT</pubDate>
         </item>
