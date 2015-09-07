@@ -1,7 +1,6 @@
-name: null
+name: toys
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.65671
 cta:
   domain: null
   bucket: null
