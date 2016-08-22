@@ -1,19 +1,4 @@
-name: toys
-favicon: null
-layout_spectrum: 0.65671
 typography_spectrum: 0.06098
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#a39873'
@@ -25,7 +10,19 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: engagement
-    item: c3a0f6e6-5fd7-44ed-982a-1e819bfa31f2
-    url: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.65671
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: toys
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+purpose: []
