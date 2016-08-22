@@ -19,10 +19,14 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: toys
+name: Music
 cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: friends
+    id: f1f7c95e-7ca2-4a90-8c8c-f7976bf80e76
+    type: content
 favicon: null
 purpose: []
